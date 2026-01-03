@@ -1,4 +1,4 @@
-# Auto_Taxi_ZafxyraStoreID
+# Auto_Taxi_ZafxyraStoreID FOR SAMP
 Usahakan memiliki jaringan yang bagus saat duty taxi, efek samping dari jaringan butut seperti saya ini adalah delay yang keterlaluan. Jangan lupa siapkan fare yang bersaing, dan hancurin harga pasar
 
  Ni script gua kategorikan private, tak boleh di share. karena bakal bahaya untuk gua pribadi.
